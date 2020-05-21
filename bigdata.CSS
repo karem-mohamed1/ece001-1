@@ -1,0 +1,27 @@
+
+.class1{
+    
+  background-image: url('big.jpg');
+    background-repeat: no-repeat;
+    background-attachment:fixed;
+    background-position: center;
+    background-size: cover;
+}
+ol{
+    list-style-type:hebrew;
+  }
+  ul{
+    list-style-type:square 
+    
+  }
+
+a:hover{
+    color:Orange;
+    font-weight:bolder;
+    font-size:xx-large;
+    
+}
+.bb li {
+  display: inline-block;
+   background-color: Black;
+}
